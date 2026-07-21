@@ -30,4 +30,5 @@ python main.py
 
 ## Author
 
-Sakhoyat Hossain
+Sakhoyat Hossain siam
+This project is part of my Python learning journey, and real-world problem solving using simple Python scripts.
